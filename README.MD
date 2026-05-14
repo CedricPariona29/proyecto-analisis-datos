@@ -11,6 +11,10 @@ Proyecto desarrollado utilizando:
 - SQL Server
 - Power BI
 
+## Vista previa del dashboard
+
+El proyecto incluye un PDF exportado del dashboard desarrollado en Power BI para visualización de KPIs y análisis interactivo.
+
 ## Contenido del proyecto
 
 - notebooks/: procesos ETL, perfilado y KPIs
